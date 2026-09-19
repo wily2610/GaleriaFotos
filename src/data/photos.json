@@ -1,0 +1,22 @@
+[
+  { "id": "1", "title": "Montañas Nevadas", "url": "https://picsum.photos/id/1018/800/600", "desc": "Un paisaje impresionante capturado durante el invierno." },
+  { "id": "2", "title": "Atardecer en la Playa", "url": "https://picsum.photos/id/1015/800/600", "desc": "Colores cálidos reflejados en el agua del mar." },
+  { "id": "3", "title": "Bosque Nublado", "url": "https://picsum.photos/id/1019/800/600", "desc": "La niebla cubre los pinos en una mañana fría." },
+  { "id": "4", "title": "Ciudad Nocturna", "url": "https://picsum.photos/id/122/800/600", "desc": "Luces y rascacielos en la gran ciudad." },
+  { "id": "5", "title": "Desierto Dorado", "url": "https://picsum.photos/id/1000/800/600", "desc": "Dunas infinitas bajo el sol del mediodía." },
+  { "id": "6", "title": "Cascada Oculta", "url": "https://picsum.photos/id/103/800/600", "desc": "Una joya escondida en medio de la selva." },
+  { "id": "7", "title": "Puente Antiguo", "url": "https://picsum.photos/id/104/800/600", "desc": "Estructura de piedra que cruza un río tranquilo." },
+  { "id": "8", "title": "Lago Sereno", "url": "https://picsum.photos/id/101/800/600", "desc": "Aguas cristalinas que reflejan las montañas." },
+  { "id": "9", "title": "Callejón Europeo", "url": "https://picsum.photos/id/105/800/600", "desc": "Calles empedradas llenas de historia y cultura." },
+  { "id": "10", "title": "Aurora Boreal", "url": "https://picsum.photos/id/106/800/600", "desc": "Luces verdes danzando en el cielo nocturno." },
+  { "id": "11", "title": "Glaciar Azul", "url": "https://picsum.photos/id/107/800/600", "desc": "Hielo milenario en tonos azules profundos." },
+  { "id": "12", "title": "Campo de Lavanda", "url": "https://picsum.photos/id/108/800/600", "desc": "Interminables hileras de flores moradas." },
+  { "id": "13", "title": "Rascacielos", "url": "https://picsum.photos/id/109/800/600", "desc": "Vista desde las alturas de la arquitectura moderna." },
+  { "id": "14", "title": "Playa Tropical", "url": "https://picsum.photos/id/110/800/600", "desc": "Arena blanca y aguas turquesa." },
+  { "id": "15", "title": "Bosque de Otoño", "url": "https://picsum.photos/id/111/800/600", "desc": "Hojas naranjas y rojas cubriendo el sendero." },
+  { "id": "16", "title": "Carretera al Atardecer", "url": "https://picsum.photos/id/112/800/600", "desc": "Un viaje sin destino fijo bajo el sol poniente." },
+  { "id": "17", "title": "Arquitectura Moderna", "url": "https://picsum.photos/id/113/800/600", "desc": "Líneas geométricas y concreto en perfecta armonía." },
+  { "id": "18", "title": "Flor Silvestre", "url": "https://picsum.photos/id/114/800/600", "desc": "Pequeños detalles de la naturaleza en primer plano." },
+  { "id": "19", "title": "Barco en el Puerto", "url": "https://picsum.photos/id/115/800/600", "desc": "Un velero descansando antes de zarpar." },
+  { "id": "20", "title": "Cielo Estrellado", "url": "https://picsum.photos/id/116/800/600", "desc": "La inmensidad del universo vista desde la tierra." }
+]
